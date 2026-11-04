@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 335" width="720" height="335" font-family="Alegreya Sans, Source Sans Pro, Helvetica, Arial, sans-serif" role="img" aria-label="Spreading (top view)">
+<title>Spreading (top view)</title>
+<defs>
+  <linearGradient id="hot" x1="0" x2="1" y1="0" y2="0">
+    <stop offset="0" stop-color="#9b3a1a"/><stop offset="0.35" stop-color="#e2632b"/>
+    <stop offset="0.7" stop-color="#ffb347"/><stop offset="1" stop-color="#fff2b0"/>
+  </linearGradient>
+  <linearGradient id="hotR" x1="1" x2="0" y1="0" y2="0">
+    <stop offset="0" stop-color="#9b3a1a"/><stop offset="0.35" stop-color="#e2632b"/>
+    <stop offset="0.7" stop-color="#ffb347"/><stop offset="1" stop-color="#fff2b0"/>
+  </linearGradient>
+  <linearGradient id="hotEven" x1="0" x2="0" y1="0" y2="1">
+    <stop offset="0" stop-color="#ffb347"/><stop offset="1" stop-color="#e2632b"/>
+  </linearGradient>
+  <linearGradient id="hotEnd" x1="0" x2="1" y1="0" y2="0">
+    <stop offset="0" stop-color="#7a7f87"/><stop offset="0.55" stop-color="#7a7f87"/>
+    <stop offset="0.7" stop-color="#9b3a1a"/><stop offset="0.85" stop-color="#e2632b"/><stop offset="1" stop-color="#ffb347"/>
+  </linearGradient>
+  <linearGradient id="hotTop" x1="0" x2="0" y1="0" y2="1">
+    <stop offset="0" stop-color="#ffb347"/><stop offset="0.3" stop-color="#e2632b"/>
+    <stop offset="0.5" stop-color="#9b3a1a"/><stop offset="0.65" stop-color="#7a7f87"/><stop offset="1" stop-color="#7a7f87"/>
+  </linearGradient>
+  <marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#b4471b"/>
+  </marker>
+  <marker id="arb" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#2f5d7c"/>
+  </marker>
+</defs>
+<text x="360" y="30" font-size="20" text-anchor="middle" fill="#231f1b" font-weight="bold">Spreading (top view)</text><path d="M40,105 L170,105 C215,105 245,70 300,65 L300,175 C245,170 215,135 170,135 L40,135 Z" fill="url(#hot)" stroke="#4b4f55"/><line x1="205" y1="110" x2="205" y2="130" stroke="#9b3a1a" stroke-width="3" stroke-linecap="round"/><line x1="223" y1="104" x2="223" y2="136" stroke="#9b3a1a" stroke-width="3" stroke-linecap="round"/><line x1="241" y1="98" x2="241" y2="142" stroke="#9b3a1a" stroke-width="3" stroke-linecap="round"/><line x1="259" y1="92" x2="259" y2="148" stroke="#9b3a1a" stroke-width="3" stroke-linecap="round"/><line x1="277" y1="86" x2="277" y2="154" stroke="#9b3a1a" stroke-width="3" stroke-linecap="round"/><line x1="250" y1="120" x2="250" y2="55" stroke="#b4471b" stroke-width="2.5" marker-end="url(#ar)"/><line x1="250" y1="120" x2="250" y2="190" stroke="#b4471b" stroke-width="2.5" marker-end="url(#ar)"/><text x="170" y="225" font-size="14" text-anchor="middle" fill="#231f1b" font-weight="bold">Peen parallel to the bar axis</text><text x="170" y="245.0" font-size="13" text-anchor="middle" fill="#6d665d" font-weight="normal">→ material moves sideways: spreading</text><rect x="410" y="105" width="230" height="30" rx="0" fill="url(#hot)" stroke="#4b4f55" stroke-width="1.2"/><line x1="512" y1="120" x2="528" y2="120" stroke="#9b3a1a" stroke-width="3" stroke-linecap="round" transform="rotate(90 520 120) rotate(90 520 120)"/><line x1="520" y1="108" x2="520" y2="132" stroke="#9b3a1a" stroke-width="3" stroke-linecap="round" transform="rotate(90 520 120)"/><line x1="530" y1="120" x2="546" y2="120" stroke="#9b3a1a" stroke-width="3" stroke-linecap="round" transform="rotate(90 538 120) rotate(90 538 120)"/><line x1="538" y1="108" x2="538" y2="132" stroke="#9b3a1a" stroke-width="3" stroke-linecap="round" transform="rotate(90 538 120)"/><line x1="548" y1="120" x2="564" y2="120" stroke="#9b3a1a" stroke-width="3" stroke-linecap="round" transform="rotate(90 556 120) rotate(90 556 120)"/><line x1="556" y1="108" x2="556" y2="132" stroke="#9b3a1a" stroke-width="3" stroke-linecap="round" transform="rotate(90 556 120)"/><line x1="566" y1="120" x2="582" y2="120" stroke="#9b3a1a" stroke-width="3" stroke-linecap="round" transform="rotate(90 574 120) rotate(90 574 120)"/><line x1="574" y1="108" x2="574" y2="132" stroke="#9b3a1a" stroke-width="3" stroke-linecap="round" transform="rotate(90 574 120)"/><line x1="584" y1="120" x2="600" y2="120" stroke="#9b3a1a" stroke-width="3" stroke-linecap="round" transform="rotate(90 592 120) rotate(90 592 120)"/><line x1="592" y1="108" x2="592" y2="132" stroke="#9b3a1a" stroke-width="3" stroke-linecap="round" transform="rotate(90 592 120)"/><line x1="600" y1="120" x2="690" y2="120" stroke="#b4471b" stroke-width="2.5" marker-end="url(#ar)"/><text x="540" y="225" font-size="14" text-anchor="middle" fill="#231f1b" font-weight="bold">Peen across the bar axis</text><text x="540" y="245.0" font-size="13" text-anchor="middle" fill="#6d665d" font-weight="normal">→ material moves lengthwise: drawing</text><text x="360" y="295.0" font-size="13" text-anchor="middle" fill="#6d665d" font-weight="normal">Spreading with the face: fan blows outward from the centre; dress the edges on edge from time to time,</text><text x="360" y="311.25" font-size="13" text-anchor="middle" fill="#6d665d" font-weight="normal">or they will crack.</text>
+</svg>

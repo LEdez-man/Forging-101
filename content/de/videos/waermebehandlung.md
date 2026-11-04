@@ -1,0 +1,74 @@
+---
+title: "Videos: Wärmebehandlung"
+lang: de
+translation: en/videos/heat-treatment
+tags: [videos, waermebehandlung]
+---
+> [!info] Automatisch erzeugt
+> Diese Seite wird von `scripts/youtube_scan.py` aus den YouTube-Metadaten erzeugt. Änderungen bitte in `data/channels.json` bzw. `data/topics.json` vornehmen.
+
+Zugehöriger Artikel: [[de/fortgeschritten/waermebehandlung|Wärmebehandlung]]
+
+## Top-Lehrvideos
+**Test hardening unknown steels - basic blacksmithing** — *Black Bear Forge*
+![](https://www.youtube.com/watch?v=rkEoh1J143k)
+
+**Hardening and tempering salvaged steel hardy tools - Basic Blcksmithing** — *Black Bear Forge*
+![](https://www.youtube.com/watch?v=voyWvwEUDYM)
+
+**Spark testing steel - basic blacksmithing** — *Black Bear Forge*
+![](https://www.youtube.com/watch?v=gbPSYxexZYU)
+
+## [[de/kanaele/black-bear-forge|Black Bear Forge]] (14)
+- [Test hardening unknown steels - basic blacksmithing](https://www.youtube.com/watch?v=rkEoh1J143k) · 2018 · 14:20
+- [Hardening and tempering salvaged steel hardy tools - Basic Blcksmithing](https://www.youtube.com/watch?v=voyWvwEUDYM) · 2018 · 37:56
+- [Spark testing steel - basic blacksmithing](https://www.youtube.com/watch?v=gbPSYxexZYU) · 2018 · 14:51
+- [Hardening and Tempering Junkyard Steels](https://www.youtube.com/watch?v=-1xRm0QqYW4) · 2017 · 17:59
+- [Viking anvils from the Mastermyr find - part 3 - hardening and tempering](https://www.youtube.com/watch?v=nr5tA8cJjKA) · 2019 · 15:48
+- [Forging a draw knife part 2 - filing, hardening and tempering](https://www.youtube.com/watch?v=Zjc1yliHhWo) · 2018 · 42:02
+- [No Tempering required  - Forging tools from Atlantic 33](https://www.youtube.com/watch?v=LlKI9YMyKS4) · 2022 · 14:58
+- [Herb chopper part 2  - filing hardening and hand sanding](https://www.youtube.com/watch?v=6yZrC2qOWzM) · 2020 · 19:10
+- [Flatter - part 2 - hardening and tempering the mystery steel](https://www.youtube.com/watch?v=EqUMisX1ZME) · 2019 · 20:37
+- [Rivet headers hardening and tempering](https://www.youtube.com/watch?v=JDjuNXppBPU) · 2019 · 16:27
+- [Testing unknown steels for hardening potential](https://www.youtube.com/watch?v=QNdUWxY5nZ8) · 2018 · 14:46
+- [Comparing critical temerature with non magnetic for hardening steel.](https://www.youtube.com/watch?v=kkGDBRpJC6U) · 2018 · 14:01
+- [Forging an adze, heat treating and finishing with John Switzer Black Bear Forge](https://www.youtube.com/watch?v=XPux8XnQemM) · 2017 · 15:54
+- [The new paragon Heat Treating furnace has arrived](https://www.youtube.com/watch?v=cFU1xGiovfY) · 2018 · 9:25
+
+## [[de/kanaele/black-bear-forge-ii|Black Bear Forge II]] (4)
+- [Blacksmith Quenching Myths Busted!](https://www.youtube.com/watch?v=IF_LYVkP3DE) · 2025 · 6:01
+- [Is Quenching REALLY Necessary for Every Steel Project?](https://www.youtube.com/watch?v=8LCmnTA-ppA) · 2025 · 2:30
+- [Is OIL really the best Quench for Tool Steel?](https://www.youtube.com/watch?v=Frmgg4Z9lsY) · 2025 · 1:56
+- [should you harden and temper Hot Work Tools](https://www.youtube.com/watch?v=A9Hq1PmZ_Uw) · 2025 · 1:20
+
+## [[de/kanaele/torbjorn-ahman|Torbjörn Åhman]] (1)
+- [Blacksmithing - Heat treating hammer dies](https://www.youtube.com/watch?v=Feod_795SOM) · 2021 · 19:38
+
+## [[de/kanaele/christ-centered-ironworks|Christ Centered Ironworks]] (29)
+- [Spark Testing Steel (Pro Tip Series ＃18)](https://www.youtube.com/watch?v=1agJetxyXq0) · 2018 · 7:41
+- [How to Fix a Bent Punch And Tempering a Punch](https://www.youtube.com/watch?v=8QJh1SsL7Pw) · 2018 · 10:18
+- [Hardening and Tempering a Chisel](https://www.youtube.com/watch?v=__3vmtFFy3s) · 2017 · 23:46
+- [Hardening Mild Steel with Super Quench ?](https://www.youtube.com/watch?v=Taz8tGZqPfc) · 2017 · 25:34
+- [Harbor Freight Anvil: Can It Be Hardened?](https://www.youtube.com/watch?v=89XStDyrSyI) · 2021 · 13:47
+- [Why I Harden In Water VS Oil](https://www.youtube.com/watch?v=yoCUjGpA-6s) · 2018 · 6:48
+- [Hardening Mild Steel Tooling with Super Quench](https://www.youtube.com/watch?v=cnJa4gUhhPE) · 2018 · 6:15
+- [Heat Treating Hammers in the Shop (Hardening and Tempering a Hammer)](https://www.youtube.com/watch?v=WQTmGWZn4H4) · 2018 · 19:02
+- [REVEALED: Roy's Mysterious Quenching Oil for Blacksmithing](https://www.youtube.com/watch?v=K37rlsWFbEQ) · 2017 · 4:42
+- [Super Quench: Final Verdict!](https://www.youtube.com/watch?v=NL6g_dMjN2k) · 2017 · 22:23
+- [Can We Case Harden a Harbor Freight Anvil?](https://www.youtube.com/watch?v=5o6flJB5HPM) · 2021 · 10:44
+- [Hardening and Tempering a Hammer Made of Wrought Iron](https://www.youtube.com/watch?v=Ovebi8rtJvo) · 2018 · 11:54
+- [Anneal BEFORE You File!](https://www.youtube.com/watch?v=nyviD4b3kjk) · 2019 · 5:48
+- [Work Hardening Copper](https://www.youtube.com/watch?v=Kc0Gkqm3_VY) · 2019 · 8:10
+- [DIY Knife Quench Tank](https://www.youtube.com/watch?v=47yMhvL8SFw) · 2018 · 8:13
+- [Tempering Anvils, Hardy Holes, and More! (＃BlacksmithQuestionofTheDay S1E4)](https://www.youtube.com/watch?v=idNn61rki2k) · 2019 · 12:59
+- [Is normalizing used coil spring necessary? Blacksmith Question of the Day S2E5](https://www.youtube.com/watch?v=tK3f0QfYBcY) · 2020 · 7:29
+- [Heat Treating a Rivet Bucking Bar](https://www.youtube.com/watch?v=BNbna8cklZw) · 2019 · 17:32
+- [Hardening and Tempering the Butcher Tool for Chasing](https://www.youtube.com/watch?v=FFp2DkyQSLY) · 2018 · 10:40
+- [Blacksmith Question of the Day: To Harden or Not to Harden? S1E1 ＃BlacksmithQuestionofTheDay](https://www.youtube.com/watch?v=wQBuGglc2PA) · 2019 · 5:24
+- [Making a Stainless Steel Quench Tank](https://www.youtube.com/watch?v=ODyVi4Qkx8c) · 2019 · 6:22
+- [Stop Overthinking Heat Treating](https://www.youtube.com/watch?v=6uhvz-7dONA) · 2018 · 12:44
+- [Heat Treating the Slitting Punch (Step ＃2)](https://www.youtube.com/watch?v=ClbZGxPpotw) · 2018 · 17:12
+- [Manky Tank Challenge: What's in Roy's Quench Tank?](https://www.youtube.com/watch?v=FfY_J-baweg) · 2019 · 6:41
+- [Step Three: Hardening and Tempering a Convex Butcher Tool (The Chasing Tool Series)](https://www.youtube.com/watch?v=EDbLom6JRUc) · 2018 · 7:08
+- … weitere 4
+

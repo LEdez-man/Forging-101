@@ -1,0 +1,105 @@
+{
+  "_doc": "Kuratierte Kanalliste. 'id' = YouTube-Kanal-ID. Texte de/en erscheinen auf den Kanalseiten. Neue Kanäle hier ergänzen und scripts/youtube_scan.py erneut laufen lassen.",
+  "channels": [
+    {
+      "slug": "black-bear-forge",
+      "id": "UCdOM6Qc53TcWuExrnDLVjXg",
+      "name": "Black Bear Forge",
+      "person": "John Switzer",
+      "origin": "Beulah, Colorado (USA)",
+      "priority": 1,
+      "focus_de": "Systematische Grundlagenvermittlung mit Handwerkzeug, Werkzeugbau (Zangen, Durchschläge, Gesenke, Guillotine), Feuerschweißen, Äxte, historische Werkzeuge (Mästermyr-Fund). Die Reihe „Back to Basics“ (2025) behandelt die Grundtechniken einzeln und ist der beste Einstieg.",
+      "focus_en": "Systematic teaching of fundamentals with hand tools, toolmaking (tongs, punches, swages, guillotine tools), forge welding, axes, historical tools (Mästermyr find). The 2025 “Back to Basics” series covers each fundamental technique on its own and is the best starting point.",
+      "playlists": [
+        ["PLHta7NIJ9npbe-pJxBSBtxBS4Ny61iLTn", "Back to Basics"],
+        ["PLHta7NIJ9npYkM9Oh_2-6CBDjcej76F6s", "Blacksmithing for beginners"],
+        ["PLHta7NIJ9npY8Udo3hNfxKyXNd_BhrNs3", "Beginning blacksmith projects"],
+        ["PLHta7NIJ9npYV6XEUv_WDk-iF_xr5BgTy", "Forge welding"],
+        ["PLHta7NIJ9npZXYDsfx0p_zVUBtD07xX5l", "Blacksmith tongs"],
+        ["PLHta7NIJ9npbstek350mUDZytzWRygYGu", "Guillotine tools"],
+        ["PLHta7NIJ9npY8cq3eXc--PHqzODfNTZKc", "Scrolls"],
+        ["PLHta7NIJ9npZjOwx6A2Q8uMlkTeur6Xoy", "Quick tips"],
+        ["PLHta7NIJ9npYvVIWhd5-TKmnNIqZ2BV_L", "Setting up the hand tool blacksmith shop"]
+      ]
+    },
+    {
+      "slug": "black-bear-forge-ii",
+      "id": "UCgRV2TxlJAiHaJA5i0r0ypg",
+      "name": "Black Bear Forge II",
+      "person": "John Switzer",
+      "origin": "Beulah, Colorado (USA)",
+      "priority": 1,
+      "focus_de": "Zweitkanal von Black Bear Forge: kurze, sehr fokussierte Lehrvideos. Die Reihe „Fundamentals of Blacksmithing“ (2021) erklärt die sieben Grundfertigkeiten in jeweils 3–9 Minuten.",
+      "focus_en": "Second channel of Black Bear Forge: short, tightly focused lessons. The 2021 “Fundamentals of Blacksmithing” series explains the seven basic skills in 3–9 minutes each.",
+      "playlists": [
+        ["PL-QiuNh8cwRRasOA7AuBiTGcq5QmHJpW8", "Fundamentals of blacksmithing"],
+        ["PL-QiuNh8cwRQLKykkcuzSa3tX5dJVv9tz", "Blacksmithing basics"],
+        ["PL-QiuNh8cwRREioOycPGtVZUIdohakcuj", "Tools"]
+      ]
+    },
+    {
+      "slug": "torbjorn-ahman",
+      "id": "UCSFaYYQzNMLo2U6rSNLpghg",
+      "name": "Torbjörn Åhman",
+      "person": "Torbjörn Åhman",
+      "origin": "Schweden / Sweden",
+      "priority": 2,
+      "focus_de": "Werkzeugschmied mit Schwerpunkt Hämmer, Gesenke, Lufthammer-Werkzeug und Steinbearbeitungswerkzeug. Sehr präzise, ruhige Arbeitsweise. Die Reihe „A Beginners Guide“ (2025) zeigt Zangen ohne Zangen, einfache Hammerwerkzeuge (Setzhammer, Durchschlag) und einen handgeschmiedeten Hammer – ideal als Brücke von Grund- zu Werkzeugtechniken.",
+      "focus_en": "Toolsmith focused on hammers, dies, power-hammer tooling and stone-working tools. Very precise, calm working style. The 2025 “A Beginners Guide” series covers tongs without tongs, simple hammer tools (set hammer, punch) and a hand-forged hammer – an ideal bridge from basic to toolmaking techniques.",
+      "playlists": [["PLxTbEbyiv6g4TqGERC1oQ4X6rxp9ioCOQ", "Tools"]]
+    },
+    {
+      "slug": "nils-ogren",
+      "id": "UC57chIWkBDYmbmcVRdwG2eQ",
+      "name": "Nils Ögren",
+      "person": "Nils Ögren",
+      "origin": "Schweden / Sweden",
+      "priority": 2,
+      "focus_de": "Axtschmied (seit 2019 Schwerpunkt Äxte): Lochen und Dornen von Axtaugen, Einschweißen von Schneidstahl (u. a. „Hamburger-Technik“), Mosaik- und Damaststahl, historische Axtformen. Für Grundtechniken v. a. „Beginner’s Guide to Forging Axes“ und die Zusammenarbeit mit Torbjörn Åhman zu Kehlwerkzeugen.",
+      "focus_en": "Axe smith (axes are his main focus since 2019): punching and drifting axe eyes, welding in edge steel (incl. the “hamburger technique”), mosaic and pattern-welded steel, historical axe forms. For fundamentals see “Beginner’s Guide to Forging Axes” and the fuller collaboration with Torbjörn Åhman.",
+      "playlists": [
+        ["PL69iCP88CzBCJjeDhC2Z7DU8P1TIHHh3O", "Forging Axes"],
+        ["PL69iCP88CzBDCoXOUj6uTweS3RoiS7DZ2", "Tips & Tricks"]
+      ]
+    },
+    {
+      "slug": "christ-centered-ironworks",
+      "id": "UCVZa2bQrCprFEk0kzmarilA",
+      "name": "Christ Centered Ironworks",
+      "person": "Inhaber der Kunstschmiede Christ Centered Ironworks (Ohio)",
+      "origin": "Ohio (USA)",
+      "priority": 1,
+      "focus_de": "Kunstschmied (seit 2008, Ohio Heritage Fellowship 2017) mit sehr großem Lehrvideo-Archiv: Reihen „Blacksmithing Fundamentals You Need to Know“ (2017), „Fundamental Instruction #1–12“ und „Fundamental Scroll #1–9“ (2020), „Blacksmithing Fundamentals Illustrated 101/102“ sowie über 50 „Pro Tips“. Viel Werkzeugbau, Rollenformen (Scrolls), Blattwerk, Lufthammer.",
+      "focus_en": "Artist blacksmith (since 2008, 2017 Ohio Heritage Fellowship) with a very large archive of teaching videos: the series “Blacksmithing Fundamentals You Need to Know” (2017), “Fundamental Instruction #1–12” and “Fundamental Scroll #1–9” (2020), “Blacksmithing Fundamentals Illustrated 101/102” and 50+ “Pro Tips”. Lots of toolmaking, scrolls, leaves, power hammer work.",
+      "playlists": [
+        ["PLumdiZI5Q3f_E9yntjeFS9UFG2iL5Wyvu", "Blacksmithing Fundamentals"],
+        ["PLumdiZI5Q3f9baBqp1AjqFmJl2c1nVKuB", "Blacksmith Techniques"],
+        ["PLumdiZI5Q3f9Kpc6D3NvQcd9J2cp7AHod", "How to Forge Scrolls"],
+        ["PLumdiZI5Q3f_UaXY8iXVhI536peFhedxt", "Forge Welding Techniques"],
+        ["PLumdiZI5Q3f_Tsx_JJq5zjMbMoNYY9Z3o", "Basic Blacksmithing Tools"],
+        ["PLumdiZI5Q3f9-jOK4HF4Oi4PSnnZzoJ24", "How To Make Your Own Blacksmith Tools"],
+        ["PLumdiZI5Q3f_waqCVk_TheBMJeIWsVZ1N", "Blacksmith Tongs"],
+        ["PLumdiZI5Q3f-avQjElp_uCGvdEzF9KY_y", "Quick Blacksmith Tips and Tricks"]
+      ]
+    },
+    {
+      "slug": "mark-aspery",
+      "id": "UCXamijMjQKpkFF2aUzCsR8Q",
+      "name": "Mark Aspery",
+      "person": "Mark Aspery",
+      "origin": "in Großbritannien ausgebildet, tätig in Kalifornien / UK-trained, working in California",
+      "priority": 1,
+      "assumption": true,
+      "focus_de": "Britisch ausgebildeter Schmied und Lehrer, Autor der Buchreihe „Mastering the Fundamentals of Blacksmithing“ (Bd. I–III). Seine Videos begleiten das Ausbildungs-Curriculum der California Blacksmith Association (CBA Level I–III) und das ABANA-Curriculum: Spitzen in fünf Querschnitten, Lochen/Dornen-Theorie, Schäftung (scarf) beim Feuerschweißen, Zapfen und Zapfenschultern, Bunde, Gitter („Grille“) als Prüfstück. Das ist die „erweiterte Grundtechnik“ im eigentlichen Sinn.",
+      "focus_en": "UK-trained smith and teacher, author of the book series “Mastering the Fundamentals of Blacksmithing” (vol. I–III). His videos accompany the California Blacksmith Association curriculum (CBA Level I–III) and the ABANA curriculum: tapers in five cross-sections, punching/drifting theory, scarfing for forge welds, tenons and tenon shoulders, collars, grilles as test pieces. This is “extended fundamentals” in the proper sense.",
+      "playlists": [
+        ["PL0_1OzAA4gHU_CuoGBtRm1p8JO1rUMh3E", "CBA Level I curriculum resources"],
+        ["PL0_1OzAA4gHVA0bXd2tdK2nHEfR-BeVLf", "CBA Level IIA Grille"],
+        ["PL0_1OzAA4gHU8vzLbAwSmZoMopzJy31oW", "CBA Level IIB (Tool-making) resources"],
+        ["PL0_1OzAA4gHUmn8FsAX1xpQODFy5atrTX", "CBA Level III Grille"],
+        ["PL0_1OzAA4gHXl4iR3jGnPN7GPY94dl3a4", "CBA Level III Large Scale Joinery"],
+        ["PL0_1OzAA4gHWCCoE53-l2KsD1D9Ny6s1H", "Forge welding"]
+      ]
+    }
+  ]
+}

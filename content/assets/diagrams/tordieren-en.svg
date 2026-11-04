@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 365" width="720" height="365" font-family="Alegreya Sans, Source Sans Pro, Helvetica, Arial, sans-serif" role="img" aria-label="Twisting">
+<title>Twisting</title>
+<defs>
+  <linearGradient id="hot" x1="0" x2="1" y1="0" y2="0">
+    <stop offset="0" stop-color="#9b3a1a"/><stop offset="0.35" stop-color="#e2632b"/>
+    <stop offset="0.7" stop-color="#ffb347"/><stop offset="1" stop-color="#fff2b0"/>
+  </linearGradient>
+  <linearGradient id="hotR" x1="1" x2="0" y1="0" y2="0">
+    <stop offset="0" stop-color="#9b3a1a"/><stop offset="0.35" stop-color="#e2632b"/>
+    <stop offset="0.7" stop-color="#ffb347"/><stop offset="1" stop-color="#fff2b0"/>
+  </linearGradient>
+  <linearGradient id="hotEven" x1="0" x2="0" y1="0" y2="1">
+    <stop offset="0" stop-color="#ffb347"/><stop offset="1" stop-color="#e2632b"/>
+  </linearGradient>
+  <linearGradient id="hotEnd" x1="0" x2="1" y1="0" y2="0">
+    <stop offset="0" stop-color="#7a7f87"/><stop offset="0.55" stop-color="#7a7f87"/>
+    <stop offset="0.7" stop-color="#9b3a1a"/><stop offset="0.85" stop-color="#e2632b"/><stop offset="1" stop-color="#ffb347"/>
+  </linearGradient>
+  <linearGradient id="hotTop" x1="0" x2="0" y1="0" y2="1">
+    <stop offset="0" stop-color="#ffb347"/><stop offset="0.3" stop-color="#e2632b"/>
+    <stop offset="0.5" stop-color="#9b3a1a"/><stop offset="0.65" stop-color="#7a7f87"/><stop offset="1" stop-color="#7a7f87"/>
+  </linearGradient>
+  <marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#b4471b"/>
+  </marker>
+  <marker id="arb" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#2f5d7c"/>
+  </marker>
+</defs>
+<text x="360" y="30" font-size="20" text-anchor="middle" fill="#231f1b" font-weight="bold">Twisting</text><rect x="60" y="110" width="40" height="90" rx="0" fill="#3a3c40"/><rect x="100" y="110" width="40" height="90" rx="0" fill="#4a4c50"/><text x="100" y="225" font-size="13" text-anchor="middle" fill="#231f1b" font-weight="normal">Vise</text><rect x="140" y="140" width="440" height="26" rx="0" fill="#7a7f87" stroke="#4b4f55" stroke-width="1.2"/><path d="M200,140 L218,166" stroke="#9b3a1a" stroke-width="5"/><path d="M228,140 L246,166" stroke="#9b3a1a" stroke-width="5"/><path d="M256,140 L274,166" stroke="#9b3a1a" stroke-width="5"/><path d="M284,140 L302,166" stroke="#9b3a1a" stroke-width="5"/><path d="M312,140 L330,166" stroke="#9b3a1a" stroke-width="5"/><path d="M340,140 L358,166" stroke="#9b3a1a" stroke-width="5"/><path d="M368,140 L386,166" stroke="#9b3a1a" stroke-width="5"/><path d="M396,140 L414,166" stroke="#9b3a1a" stroke-width="5"/><path d="M424,140 L442,166" stroke="#9b3a1a" stroke-width="5"/><path d="M452,140 L470,166" stroke="#9b3a1a" stroke-width="5"/><path d="M480,140 L498,166" stroke="#9b3a1a" stroke-width="5"/><path d="M508,140 L526,166" stroke="#9b3a1a" stroke-width="5"/><rect x="190" y="140" width="340" height="26" rx="0" fill="url(#hotEven)" fill-opacity="0.55" stroke="#4b4f55" stroke-width="1.2"/><path d="M196,140 L214,166" stroke="#9b3a1a" stroke-width="4" opacity="0.8"/><path d="M224,140 L242,166" stroke="#9b3a1a" stroke-width="4" opacity="0.8"/><path d="M252,140 L270,166" stroke="#9b3a1a" stroke-width="4" opacity="0.8"/><path d="M280,140 L298,166" stroke="#9b3a1a" stroke-width="4" opacity="0.8"/><path d="M308,140 L326,166" stroke="#9b3a1a" stroke-width="4" opacity="0.8"/><path d="M336,140 L354,166" stroke="#9b3a1a" stroke-width="4" opacity="0.8"/><path d="M364,140 L382,166" stroke="#9b3a1a" stroke-width="4" opacity="0.8"/><path d="M392,140 L410,166" stroke="#9b3a1a" stroke-width="4" opacity="0.8"/><path d="M420,140 L438,166" stroke="#9b3a1a" stroke-width="4" opacity="0.8"/><path d="M448,140 L466,166" stroke="#9b3a1a" stroke-width="4" opacity="0.8"/><path d="M476,140 L494,166" stroke="#9b3a1a" stroke-width="4" opacity="0.8"/><path d="M504,140 L522,166" stroke="#9b3a1a" stroke-width="4" opacity="0.8"/><rect x="580" y="60" width="18" height="190" rx="3" fill="#3a3c40" stroke="#202225" stroke-width="1.2"/><rect x="570" y="138" width="38" height="30" rx="3" fill="#55585e" stroke="#202225" stroke-width="1.2"/><path d="M626.5,88.0 A75,75 0 0 1 626.5,218.0" fill="none" stroke="#b4471b" stroke-width="2.5" marker-end="url(#ar)"/><text x="640" y="270" font-size="13" text-anchor="middle" fill="#231f1b" font-weight="normal">Twisting wrench</text><text x="360" y="270" font-size="13" text-anchor="middle" fill="#231f1b" font-weight="normal">Even heat = even pitch</text><text x="360" y="287" font-size="13" text-anchor="middle" fill="#6d665d" font-weight="normal">Limit the zone: cool the ends with water</text><text x="360" y="325.0" font-size="12.5" text-anchor="middle" fill="#6d665d" font-weight="normal">Square stock shows the twist best; count the turns (chalk mark). Straighten on wood after twisting – not</text><text x="360" y="340.625" font-size="12.5" text-anchor="middle" fill="#6d665d" font-weight="normal">on steel (keeps the edges crisp).</text>
+</svg>

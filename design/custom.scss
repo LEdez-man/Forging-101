@@ -1,0 +1,160 @@
+// ============================================================================
+//  Forging 101 – projektspezifische Gestaltung / project-specific styling
+// ----------------------------------------------------------------------------
+//  Farben & Schriften: design/theme.ts  (werden zu CSS-Variablen)
+//  Hier: Layout-Feinheiten, eigene Komponenten, Callouts, Druck/PDF.
+//  Alle Werte unten sind als Variablen gebündelt – hier anpassen.
+// ============================================================================
+
+// ---- Stellschrauben / knobs -------------------------------------------------
+$content-max-width: 46rem; // Lesebreite des Artikeltexts
+$figure-radius: 6px;
+$figure-border: 1px solid var(--lightgray);
+$embed-ratio: 56.25%; // 16:9 für YouTube
+$accent: var(--secondary);
+$accent-2: var(--tertiary);
+
+// Diagramm-Farben (SVGs nutzen currentColor bzw. diese CSS-Variablen)
+:root {
+  --diagram-steel: #6b6f76;
+  --diagram-hot: #e2632b;
+  --diagram-glow: #ffb347;
+  --diagram-tool: #2b2b2b;
+  --diagram-arrow: #b4471b;
+}
+:root[saved-theme="dark"] {
+  --diagram-steel: #a9adb4;
+  --diagram-tool: #e8e2d8;
+  --diagram-arrow: #f08a4b;
+}
+
+// ---- Typografie -------------------------------------------------------------
+article {
+  max-width: $content-max-width;
+  hyphens: auto;
+  line-height: 1.65;
+
+  h2 {
+    border-bottom: 1px solid var(--lightgray);
+    padding-bottom: 0.2rem;
+    margin-top: 2.2rem;
+  }
+}
+
+// ---- Abbildungen / figures --------------------------------------------------
+article img {
+  border-radius: $figure-radius;
+}
+article img[src$=".svg"] {
+  background: #fffdf9;
+  border: $figure-border;
+  padding: 0.5rem;
+  width: 100%;
+  max-width: 640px;
+  display: block;
+  margin: 1rem auto;
+}
+:root[saved-theme="dark"] article img[src$=".svg"] {
+  background: #f3eee6; // SVGs bleiben hell lesbar
+}
+
+// ---- YouTube-Einbettungen ---------------------------------------------------
+iframe.external-embed.youtube {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  height: auto;
+  border: 0;
+  border-radius: $figure-radius;
+  margin: 0.5rem 0 1rem;
+}
+
+// ---- Sprachumschalter / language switch -------------------------------------
+.language-switch {
+  display: inline-flex;
+  gap: 0.25rem;
+  margin: 0.5rem 0 0;
+  font-family: var(--headerFont);
+  font-size: 0.85rem;
+
+  a,
+  span {
+    padding: 0.15rem 0.6rem;
+    border: 1px solid var(--lightgray);
+    border-radius: 999px;
+    text-decoration: none;
+    background: none;
+  }
+  .active {
+    background: $accent;
+    border-color: $accent;
+    color: var(--light);
+    font-weight: 600;
+  }
+  .missing {
+    opacity: 0.45;
+  }
+}
+
+// ---- Info-Kästen (eigene Callout-Typen) -------------------------------------
+.callout[data-callout="safety"] {
+  --color: #b42318;
+  --border: #b4231844;
+  --bg: #b4231810;
+  --callout-icon: var(--callout-icon-warning);
+}
+.callout[data-callout="video"] {
+  --color: #c4302b;
+  --border: #c4302b44;
+  --bg: #c4302b0d;
+  --callout-icon: var(--callout-icon-example);
+}
+.callout[data-callout="history"] {
+  --color: #7a5c2e;
+  --border: #7a5c2e44;
+  --bg: #7a5c2e10;
+  --callout-icon: var(--callout-icon-quote);
+}
+
+// ---- Tabellen ---------------------------------------------------------------
+article table {
+  font-size: 0.92rem;
+  th {
+    background: var(--highlight);
+  }
+}
+
+// ---- Druck / PDF aus dem Browser -------------------------------------------
+@media print {
+  .left,
+  .right,
+  .page-header .breadcrumb-container,
+  .search,
+  .darkmode,
+  .readermode,
+  .language-switch,
+  footer,
+  .graph,
+  .backlinks {
+    display: none !important;
+  }
+  #quartz-body {
+    display: block !important;
+  }
+  .center {
+    max-width: 100% !important;
+    margin: 0 !important;
+  }
+  article {
+    max-width: 100%;
+    font-size: 11pt;
+  }
+  iframe.external-embed.youtube {
+    display: none;
+  }
+  a[href^="http"]::after {
+    content: " (" attr(href) ")";
+    font-size: 8pt;
+    color: #555;
+    word-break: break-all;
+  }
+}

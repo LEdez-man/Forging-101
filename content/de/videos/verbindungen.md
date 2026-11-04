@@ -1,0 +1,112 @@
+---
+title: "Videos: Schmiedeverbindungen"
+lang: de
+translation: en/videos/joinery
+tags: [videos, verbindungen]
+---
+> [!info] Automatisch erzeugt
+> Diese Seite wird von `scripts/youtube_scan.py` aus den YouTube-Metadaten erzeugt. Änderungen bitte in `data/channels.json` bzw. `data/topics.json` vornehmen.
+
+Zugehöriger Artikel: [[de/fortgeschritten/verbindungen|Schmiedeverbindungen]]
+
+## Top-Lehrvideos
+**Blacksmithing - Making chain (7 links);  rivet tongs. CBA Level I** — *Mark Aspery*
+![](https://www.youtube.com/watch?v=fB87GVPvM2I)
+
+**Blacksmithing - Upset and cut heel tenon CBA Level III Large Scale Joinery** — *Mark Aspery*
+![](https://www.youtube.com/watch?v=h3YnOm_fQZM)
+
+**blind riveting techniques** — *Black Bear Forge*
+![](https://www.youtube.com/watch?v=yAVhPmPM4So)
+
+## [[de/kanaele/black-bear-forge|Black Bear Forge]] (19)
+- [blind riveting techniques](https://www.youtube.com/watch?v=yAVhPmPM4So) · 2019 · 8:38
+- [Forge welded basket twist - basic blacksmithing welded twists part 1](https://www.youtube.com/watch?v=CHKCZlw_5sA) · 2018 · 21:55
+- [Hot collars for assembling ornamental iron work - basic blacksmithing](https://www.youtube.com/watch?v=U0Rsv6b93YQ) · 2018 · 20:30
+- [How to Forge a BASKET TWIST - with 5 bars](https://www.youtube.com/watch?v=vNIwH4-GTS0) · 2021 · 14:06
+- [Plug welded rivets - basic blacksmithing](https://www.youtube.com/watch?v=LaOzDcl7SLc) · 2019 · 7:07
+- [Forging rivet headers - blacksmithing tools](https://www.youtube.com/watch?v=YB9KXYWVP1c) · 2018 · 18:57
+- [Making a tenon spring die without welding](https://www.youtube.com/watch?v=Th2X0R5iy-E) · 2018 · 46:33
+- [Basket twist Christmas ornament](https://www.youtube.com/watch?v=m0sbQW4kCTE) · 2018 · 17:47
+- [Hanging Candelabra with Basket Twist](https://www.youtube.com/watch?v=fO958x8B254) · 2022 · 18:02
+- [Basket weave hook, a first look](https://www.youtube.com/watch?v=EkaeMks2x-M) · 2018 · 26:25
+- [Rivet headers hardening and tempering](https://www.youtube.com/watch?v=JDjuNXppBPU) · 2019 · 16:27
+- [Hand rivet setting tool](https://www.youtube.com/watch?v=qBc2EAf7OoM) · 2019 · 11:00
+- [Blacksmithing - Forging the Tenons on the Yellin Gate - Part 4](https://www.youtube.com/watch?v=aZE1i4fVu4E) · 2024 · 16:53
+- [Andiron project part 4 forging the feet with mortise and tenon joint](https://www.youtube.com/watch?v=eSLoQdP-zL4) · 2020 · 17:56
+- [Forging a tenon and the tools used in the forging](https://www.youtube.com/watch?v=PPL6lNDnOYA) · 2018 · 12:14
+- [Bottom rivet setting tool](https://www.youtube.com/watch?v=ed1iVewO3QU) · 2019 · 13:19
+- [Rivet headers and monkey tools - tool of the day](https://www.youtube.com/watch?v=LnOnJfCn2mk) · 2018 · 5:44
+- [Forging Baluster and tenons for the window grill project.](https://www.youtube.com/watch?v=Kj5uttVSA5o) · 2018 · 38:20
+- [Rivet and chain link tongs - tool of the day](https://www.youtube.com/watch?v=f3wfZt8olCc) · 2018 · 5:21
+
+## [[de/kanaele/black-bear-forge-ii|Black Bear Forge II]] (2)
+- [Blacksmith forging the HEEL TENON for a gate](https://www.youtube.com/watch?v=4dpWnT202Gk) · 2025 · 2:31
+- [Forge Welded Basket Twist](https://www.youtube.com/watch?v=suyhcyB0Yp8) · 2021 · 4:51
+
+## [[de/kanaele/torbjorn-ahman|Torbjörn Åhman]] (4)
+- [Blacksmithing - Forging dome head rivets](https://www.youtube.com/watch?v=uBctd88yzPw) · 2019 · 10:59
+- [Blacksmithing - Forging a fire basket or brazier](https://www.youtube.com/watch?v=_J6EinEg3gE) · 2021 · 29:43
+- [Blacksmithing - Using a spring swage. Forging tenons](https://www.youtube.com/watch?v=MM4GLmlRthE) · 2014 · 4:42
+- [Setting the Rivet on Your First Pair of Tongs!  ＃blacksmith ＃tongs ＃forging ＃handmade](https://www.youtube.com/watch?v=vxD1qvxpmU0) · 2025 · 1:17
+
+## [[de/kanaele/nils-ogren|Nils Ögren]] (3)
+- [Why Finnish Axes Have a Collared Eye](https://www.youtube.com/watch?v=fwo9cmxSJiw) · 2022 · 15:03
+- [FORGING A SWEDISH COLLARED AXE](https://www.youtube.com/watch?v=qn0JVsEMQhQ) · 2020 · 23:19
+- [Forging a Mortise Axe: Crafting a Versatile Tool for Traditional Woodworking](https://www.youtube.com/watch?v=5aZDfailUlg) · 2022 · 10:25
+
+## [[de/kanaele/christ-centered-ironworks|Christ Centered Ironworks]] (27)
+- [How To Forge Your Own Homemade Rivets](https://www.youtube.com/watch?v=o7mbKQUp_fg) · 2017 · 8:07
+- [How to Make Metal Rosette Rivets // Blacksmithing Techniques](https://www.youtube.com/watch?v=meBM_eOmXk8) · 2017 · 18:22
+- [How to Make a Simple Collar Weld (Forge Welding Techniques)](https://www.youtube.com/watch?v=sRWN402vZ_k) · 2019 · 15:42
+- [Hot Collar: Fundamental Instruction ＃10](https://www.youtube.com/watch?v=QCPjHaNmG7U) · 2020 · 8:58
+- [The Rivet Joint: Fundamental Instruction ＃9](https://www.youtube.com/watch?v=QTtPXf1aUbs) · 2020 · 7:18
+- [How much material do you need for a homemade rivet?](https://www.youtube.com/watch?v=Dm1Wkm64Gxo) · 2017 · 7:19
+- [Forging a Basket Twist S Hook // Blacksmith Projects to Sell](https://www.youtube.com/watch?v=w2HY0VlQA2w) · 2017 · 14:44
+- [DIY Copper Rivets](https://www.youtube.com/watch?v=e19aEBJkIWs) · 2018 · 8:46
+- [Making a Blacksmith Rivet Block](https://www.youtube.com/watch?v=SW7uAssWya8) · 2017 · 5:12
+- [FIXED: Forging a Basket Twist S Hook (Better Audio)](https://www.youtube.com/watch?v=f5p2Kt4VARQ) · 2017 · 14:44
+- [Making Blacksmith Rivet Sets](https://www.youtube.com/watch?v=EttuR6whdjQ) · 2017 · 6:15
+- [Air Powered Rivet Tool for AIR FORGING](https://www.youtube.com/watch?v=UT-qDBXdpIM) · 2018 · 19:55
+- [Making Forged Collars](https://www.youtube.com/watch?v=UlrWbzlqaXk) · 2017 · 10:31
+- [Forging a Rivet Bucking Bar for Scroll Making](https://www.youtube.com/watch?v=vw8Qk90ST4s) · 2019 · 30:40
+- [Forging a Collar Holder for the Vise](https://www.youtube.com/watch?v=lxo46OzB7no) · 2022 · 5:48
+- [Forging a Collar Block for the Vise](https://www.youtube.com/watch?v=V65u3k2uZWM) · 2021 · 6:08
+- [Forging a Single Rib Collar Block](https://www.youtube.com/watch?v=cThCuQvN67w) · 2021 · 18:52
+- [Forging a Scroll Bar // Rivet Bucking Bar](https://www.youtube.com/watch?v=zn11LvCKaRc) · 2020 · 15:05
+- [Heat Treating a Rivet Bucking Bar](https://www.youtube.com/watch?v=BNbna8cklZw) · 2019 · 17:32
+- [Forge Welded End of Bar Collar](https://www.youtube.com/watch?v=f8YAnyuI51s) · 2021 · 11:50
+- [Forging a Rivet Header for the Anvil](https://www.youtube.com/watch?v=wCeC38iaSLg) · 2018 · 6:57
+- [Forging a Basket Twist S-Hook on an Anvil Made of ICE!](https://www.youtube.com/watch?v=YRHALX6Me5M) · 2024 · 3:24
+- [Spice Up Tongs with a Decorative Rivet](https://www.youtube.com/watch?v=LTmQzJYyRzs) · 2019 · 14:49
+- [Forging a Top Set Tool For a Single Rib Collar](https://www.youtube.com/watch?v=GIXr9gl_8G4) · 2021 · 17:25
+- [Air Riveter in Action!](https://www.youtube.com/watch?v=PzI08GlrlKk) · 2018 · 5:02
+- … weitere 2
+
+## [[de/kanaele/mark-aspery|Mark Aspery]] (25)
+- [Blacksmithing - Making chain (7 links);  rivet tongs. CBA Level I](https://www.youtube.com/watch?v=fB87GVPvM2I) · 2016 · 13:08
+- [Blacksmithing - Upset and cut heel tenon CBA Level III Large Scale Joinery](https://www.youtube.com/watch?v=h3YnOm_fQZM) · 2010 · 10:02
+- [Blacksmithing: Punching and Drifting theory. CBA Level II Grille, CBA Level III Large Scale Joinery](https://www.youtube.com/watch?v=CZCMhZPXqcY) · 2012 · 3:37
+- [Blacksmithing - Getting Started: Simple guillotine tool for isolating tenon material. CBA Level I.](https://www.youtube.com/watch?v=zH5LLxJXEcQ) · 2020 · 3:09
+- [CBA Grille ＃6 By Dennis Dusek & Brett Moten - center collar tooling. CBA Level III Grille](https://www.youtube.com/watch?v=F7BRVzUSxkc) · 2011 · 6:39
+- [Blacksmithing - Getting Started: Making the Monkey Tool for forged tenons. CBA Level I](https://www.youtube.com/watch?v=Q-6akAaX-Ow) · 2020 · 3:17
+- [Blacksmithing -  Forged 1-inch square holes in 1-inch square bar CBA Level III Large Scale Joinery](https://www.youtube.com/watch?v=9yD4yYfThpI) · 2011 · 3:45
+- [Blacksmithing - Getting Started: Forged Round Tenons. CBA Level I.](https://www.youtube.com/watch?v=KZWfQiKCR8M) · 2020 · 3:50
+- [CBA/ABANA Level III Grille: The Forged Center Collar - complete with tooling](https://www.youtube.com/watch?v=OtEbFNIiYAY) · 2021 · 8:21
+- [Blacksmithing - Getting Started: The Threaded Tenon. CBA Level I.](https://www.youtube.com/watch?v=u7N5SWuA86k) · 2020 · 3:03
+- [Blacksmithing - Getting Started: The fabrication and use of a Tenon Shoulder Gauge. CBA Curriculum](https://www.youtube.com/watch?v=XuqfbG77lLM) · 2020 · 3:27
+- [Punching and drifting theory. CBA Level II Grille & CBA Level III large Scale Joinery](https://www.youtube.com/watch?v=m-WDwkrWpBI) · 2013 · 14:06
+- [Blacksmithing - Getting Started:  Part II - Forging Light Duty Tongs from flat stock - riveting up.](https://www.youtube.com/watch?v=aPt2Uj0r0t8) · 2020 · 2:22
+- [CBA/ABANA Level-1- The Gate-Latch, Part  3 The Tenoned Staple and associated tooling.](https://www.youtube.com/watch?v=aBHw7WdXA3c) · 2023 · 18:11
+- [CBA/ABANA Level III Grille: Cutting the Base and Capitals, Forging the Tenons, Assembly of the Frame](https://www.youtube.com/watch?v=dC1X05zr1Mc) · 2021 · 3:18
+- [CBA Level III Grille - Coaching Sessions: Methods for Creating the Center Collar](https://www.youtube.com/watch?v=c-gnDzsXMZE) · 2021 · 26:57
+- [CBA/ABANA Level III Grille - Coaching Session: Forging Tenons on Flat-Bar for the Grille Frame](https://www.youtube.com/watch?v=p_BO4JcDfIU) · 2021 · 14:39
+- [CBA/ABANA National Curriculum Level III grille Coaching Sessions: Welded Collar Tooling](https://www.youtube.com/watch?v=10wA4dX8oyc) · 2021 · 10:49
+- [Collars: The CBA Level 3 center collar. The pinned or tenoned collar and its applications.](https://www.youtube.com/watch?v=tXgWB9md8-o) · 2023 · 4:36
+- [CBA/ABANA National Curriculum Level III Grille - Coaching Sessions: Welded Collars](https://www.youtube.com/watch?v=xZWkyM5_ukc) · 2021 · 9:21
+- [CBA/ABANA National Curriculum Level III - Coaching Sessions: The Central Collar Material Swage](https://www.youtube.com/watch?v=KUURvlKgWww) · 2021 · 4:20
+- [Blacksmithing: Welded Basket twist, Old school project](https://www.youtube.com/watch?v=SfaD1hzQNz8) · 2018 · 9:41
+- [Forge Welded Basket Handle & Knob](https://www.youtube.com/watch?v=CgiKfGFlbOY) · 2014 · 2:54
+- [Forging a welded collar .](https://www.youtube.com/watch?v=MqWiUxGl2Bs) · 2021 · 4:23
+- [Blacksmithing: The inlaid tenon joint](https://www.youtube.com/watch?v=_5IV8kXJTQo) · 2008 · 3:16
+

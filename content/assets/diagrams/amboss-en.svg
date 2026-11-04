@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 365" width="720" height="365" font-family="Alegreya Sans, Source Sans Pro, Helvetica, Arial, sans-serif" role="img" aria-label="Anvil – parts">
+<title>Anvil – parts</title>
+<defs>
+  <linearGradient id="hot" x1="0" x2="1" y1="0" y2="0">
+    <stop offset="0" stop-color="#9b3a1a"/><stop offset="0.35" stop-color="#e2632b"/>
+    <stop offset="0.7" stop-color="#ffb347"/><stop offset="1" stop-color="#fff2b0"/>
+  </linearGradient>
+  <linearGradient id="hotR" x1="1" x2="0" y1="0" y2="0">
+    <stop offset="0" stop-color="#9b3a1a"/><stop offset="0.35" stop-color="#e2632b"/>
+    <stop offset="0.7" stop-color="#ffb347"/><stop offset="1" stop-color="#fff2b0"/>
+  </linearGradient>
+  <linearGradient id="hotEven" x1="0" x2="0" y1="0" y2="1">
+    <stop offset="0" stop-color="#ffb347"/><stop offset="1" stop-color="#e2632b"/>
+  </linearGradient>
+  <linearGradient id="hotEnd" x1="0" x2="1" y1="0" y2="0">
+    <stop offset="0" stop-color="#7a7f87"/><stop offset="0.55" stop-color="#7a7f87"/>
+    <stop offset="0.7" stop-color="#9b3a1a"/><stop offset="0.85" stop-color="#e2632b"/><stop offset="1" stop-color="#ffb347"/>
+  </linearGradient>
+  <linearGradient id="hotTop" x1="0" x2="0" y1="0" y2="1">
+    <stop offset="0" stop-color="#ffb347"/><stop offset="0.3" stop-color="#e2632b"/>
+    <stop offset="0.5" stop-color="#9b3a1a"/><stop offset="0.65" stop-color="#7a7f87"/><stop offset="1" stop-color="#7a7f87"/>
+  </linearGradient>
+  <marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#b4471b"/>
+  </marker>
+  <marker id="arb" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#2f5d7c"/>
+  </marker>
+</defs>
+<path d="M250,122 C200.0,122 150.0,127.5 118.75,137.5 C150.0,147.5 200.0,162.5 250,180.0 Z" fill="#3d3f43"/><rect x="250" y="120" width="300" height="37.5" rx="0" fill="#5b5e64"/><rect x="250" y="120" width="300" height="5.0" rx="0" fill="#8a8e95"/><polygon points="275.0,157.5 518.8,157.5 481.2,213.8 318.8,213.8" fill="#3d3f43"/><polygon points="318.8,213.8 481.2,213.8 531.2,251.2 268.8,251.2" fill="#3d3f43"/><rect x="507.5" y="127.5" width="15.0" height="30.0" rx="0" fill="#26282b"/><circle cx="477.5" cy="140.0" r="5.625" fill="#26282b"/><rect x="280" y="251" width="240" height="70" rx="2" fill="#9a6a3a" stroke="#6b4423" stroke-width="1.2"/><rect x="230" y="124" width="26" height="8" rx="0" fill="#8a8e95"/><text x="360" y="40" font-size="18" text-anchor="middle" fill="#231f1b" font-weight="bold">Anvil – parts</text><line x1="150" y1="75" x2="175" y2="125" stroke="#2f5d7c" stroke-width="2.5" marker-end="url(#arb)"/><text x="140" y="68" font-size="14" text-anchor="middle" fill="#231f1b" font-weight="normal">Horn</text><line x1="360" y1="70" x2="360" y2="115" stroke="#2f5d7c" stroke-width="2.5" marker-end="url(#arb)"/><text x="360" y="62" font-size="14" text-anchor="middle" fill="#231f1b" font-weight="normal">Face (hardened)</text><line x1="225" y1="95" x2="245" y2="118" stroke="#2f5d7c" stroke-width="2.5" marker-end="url(#arb)"/><text x="215" y="90" font-size="14" text-anchor="middle" fill="#231f1b" font-weight="normal">Step / table</text><line x1="600" y1="82" x2="519" y2="118" stroke="#2f5d7c" stroke-width="2.5" marker-end="url(#arb)"/><text x="610" y="76" font-size="14" text-anchor="middle" fill="#231f1b" font-weight="normal">Hardy hole</text><line x1="478" y1="70" x2="478" y2="132" stroke="#2f5d7c" stroke-width="2.5" marker-end="url(#arb)"/><text x="478" y="62" font-size="14" text-anchor="middle" fill="#231f1b" font-weight="normal">Pritchel hole</text><line x1="572" y1="168" x2="553" y2="134" stroke="#2f5d7c" stroke-width="2.5" marker-end="url(#arb)"/><text x="565" y="185" font-size="13" text-anchor="start" fill="#231f1b" font-weight="normal">Edge (slightly radiused)</text><line x1="630" y1="225" x2="590" y2="225" stroke="#2f5d7c" stroke-width="2.5" marker-end="url(#arb)"/><text x="640" y="230" font-size="13" text-anchor="start" fill="#231f1b" font-weight="normal">Foot</text><text x="360" y="345.0" font-size="13" text-anchor="middle" fill="#6d665d" font-weight="normal">Stand (wood) – face at knuckle to wrist height</text>
+</svg>

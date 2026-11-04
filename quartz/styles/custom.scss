@@ -1,0 +1,5 @@
+@use "./base.scss";
+
+// Alle projektspezifischen Styles liegen ausgelagert in /design.
+// All project-specific styling lives in /design – edit there, not here.
+@use "../../design/custom.scss";

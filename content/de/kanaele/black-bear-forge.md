@@ -1,0 +1,267 @@
+---
+title: "Black Bear Forge"
+lang: de
+translation: en/channels/black-bear-forge
+tags: [kanal, youtube]
+---
+> [!info] Automatisch erzeugt
+> Diese Seite wird von `scripts/youtube_scan.py` aus den YouTube-Metadaten erzeugt. Änderungen bitte in `data/channels.json` bzw. `data/topics.json` vornehmen.
+
+| Kanalprofil | |
+|---|---|
+| Kanal | [Black Bear Forge](https://www.youtube.com/channel/UCdOM6Qc53TcWuExrnDLVjXg) (@blackbearforge) |
+| Person | John Switzer |
+| Herkunft | Beulah, Colorado (USA) |
+| Abonnenten | 400.000 |
+| Videos gesamt / mit Technikbezug | 1044 / 387 |
+
+## Profil & Lehrschwerpunkt
+Systematische Grundlagenvermittlung mit Handwerkzeug, Werkzeugbau (Zangen, Durchschläge, Gesenke, Guillotine), Feuerschweißen, Äxte, historische Werkzeuge (Mästermyr-Fund). Die Reihe „Back to Basics“ (2025) behandelt die Grundtechniken einzeln und ist der beste Einstieg.
+
+## Lehr-Playlists
+![Back to Basics](https://www.youtube.com/playlist?list=PLHta7NIJ9npbe-pJxBSBtxBS4Ny61iLTn)
+
+- [Back to Basics](https://www.youtube.com/playlist?list=PLHta7NIJ9npbe-pJxBSBtxBS4Ny61iLTn)
+- [Blacksmithing for beginners](https://www.youtube.com/playlist?list=PLHta7NIJ9npYkM9Oh_2-6CBDjcej76F6s)
+- [Beginning blacksmith projects](https://www.youtube.com/playlist?list=PLHta7NIJ9npY8Udo3hNfxKyXNd_BhrNs3)
+- [Forge welding](https://www.youtube.com/playlist?list=PLHta7NIJ9npYV6XEUv_WDk-iF_xr5BgTy)
+- [Blacksmith tongs](https://www.youtube.com/playlist?list=PLHta7NIJ9npZXYDsfx0p_zVUBtD07xX5l)
+- [Guillotine tools](https://www.youtube.com/playlist?list=PLHta7NIJ9npbstek350mUDZytzWRygYGu)
+- [Scrolls](https://www.youtube.com/playlist?list=PLHta7NIJ9npY8cq3eXc--PHqzODfNTZKc)
+- [Quick tips](https://www.youtube.com/playlist?list=PLHta7NIJ9npZjOwx6A2Q8uMlkTeur6Xoy)
+- [Setting up the hand tool blacksmith shop](https://www.youtube.com/playlist?list=PLHta7NIJ9npYvVIWhd5-TKmnNIqZ2BV_L)
+
+## Tutorials nach Technik
+Auswahl: Titel mit Technikbezug, Lehrvideos zuerst, danach nach Aufrufen; Shorts ausgeblendet. Vollständige Listen je Technik unter [[de/videos/index|Videos nach Technik]].
+
+### Strecken
+→ [[de/techniken/strecken|Artikel: Strecken]]
+
+- [The Fundamentals of Blacksmithing - Drawing Out](https://www.youtube.com/watch?v=_J47QI2L36w) · 2025 · 15:29
+- [Introduction to tong making part 1, flat stock tongs without tongs - drawing out by hand.](https://www.youtube.com/watch?v=dHrgefJ7NvI) · 2018 · 34:44
+- [Blacksmith Challenge, an introduction and drawing out some tapers](https://www.youtube.com/watch?v=JS7UwEDfj4A) · 2017 · 22:20
+- [Hydraulic forging press drawing out bar](https://www.youtube.com/watch?v=pj-eK_qGduc) · 2016 · 2:16
+
+### Stauchen
+→ [[de/techniken/stauchen|Artikel: Stauchen]]
+
+- [The Fundamentals of Blacksmithing - Upsetting](https://www.youtube.com/watch?v=pDiKxyYlSr4) · 2025 · 12:37
+- [Forging a square upset corner - basic blacksmithing](https://www.youtube.com/watch?v=Y315hRqcLdo) · 2017 · 12:31
+- [Upsetting long bars with an upsetting block - quick tip - basic blacksmithing](https://www.youtube.com/watch?v=4bEjEm64hm0) · 2018 · 3:58
+- [Blacksmithing - Punch, upset and drift - Yellin gate part 2](https://www.youtube.com/watch?v=jDL95QPpWzA) · 2024 · 22:08
+- [forging double upset square corners  - "wrought iron" grill part 2](https://www.youtube.com/watch?v=MOXjz0ytGy4) · 2018 · 43:16
+- [Upsetting developments](https://www.youtube.com/watch?v=PtiG8WrPDRI) · 2019 · 13:48
+
+### Spitzen
+→ [[de/techniken/spitzen|Artikel: Spitzen]]
+
+- [Blacksmith Challenge, an introduction and drawing out some tapers](https://www.youtube.com/watch?v=JS7UwEDfj4A) · 2017 · 22:20
+
+### Absetzen
+→ [[de/techniken/absetzen|Artikel: Absetzen]]
+
+- [Half faced blows - basic blacksmithing technique](https://www.youtube.com/watch?v=iu1QI4val68) · 2018 · 11:25
+- [Making a tenon spring die without welding](https://www.youtube.com/watch?v=Th2X0R5iy-E) · 2018 · 46:33
+- [Blacksmithing - Forging the Tenons on the Yellin Gate - Part 4](https://www.youtube.com/watch?v=aZE1i4fVu4E) · 2024 · 16:53
+- [Andiron project part 4 forging the feet with mortise and tenon joint](https://www.youtube.com/watch?v=eSLoQdP-zL4) · 2020 · 17:56
+- [Forging a tenon and the tools used in the forging](https://www.youtube.com/watch?v=PPL6lNDnOYA) · 2018 · 12:14
+- [Forging Baluster and tenons for the window grill project.](https://www.youtube.com/watch?v=Kj5uttVSA5o) · 2018 · 38:20
+
+### Kehlen / Einkerben
+→ [[de/techniken/kehlen|Artikel: Kehlen / Einkerben]]
+
+- [Basic Blacksmithing - Forging Spring Fullers](https://www.youtube.com/watch?v=Q_XtO3jEYO8) · 2023 · 13:06
+- [Blacksmithing tools. Swedges and Fullers - basic blacksmithing](https://www.youtube.com/watch?v=p1g615Xveg0) · 2017 · 15:35
+- [Adjustable fullering jig - blacksmithing tools](https://www.youtube.com/watch?v=Scn1uSpP4Ig) · 2018 · 19:31
+- [Blacksmithing - Forging a Fuller](https://www.youtube.com/watch?v=SmwIdxSAIrw) · 2022 · 11:20
+- [Fullers - tool of the day](https://www.youtube.com/watch?v=xQD8-kvDol0) · 2018 · 5:20
+
+### Spalten
+→ [[de/techniken/spalten|Artikel: Spalten]]
+
+- [How to Forge a Split Cross: Easy Blacksmithing Project](https://www.youtube.com/watch?v=f_FpgYYvYPc) · 2026 · 13:40
+- [Split bar trivet - RMS demo](https://www.youtube.com/watch?v=Hs55dsEYqMI) · 2018 · 1:00:37
+- [Blacksmiths split cross or Friedrichs cross](https://www.youtube.com/watch?v=RjHs3wj8u1A) · 2019 · 28:49
+- [Split cross hook - Hook of the week 48](https://www.youtube.com/watch?v=ahMrbbQYyxc) · 2020 · 26:38
+- [Split and scrolled top hook -  hook of the week 10](https://www.youtube.com/watch?v=-FhwcvLqvPI) · 2019 · 16:55
+- [Forging a 4 way split hook - Hook of the Week 25](https://www.youtube.com/watch?v=CVXkUd4XLwI) · 2019 · 31:24
+- [Single bar split trivet - experimenting at the forge](https://www.youtube.com/watch?v=r900Jjuguxs) · 2017 · 27:11
+- [Split back plate coat hook - Hook of the Week Double Feature - ＃40](https://www.youtube.com/watch?v=lNifo3lqaBY) · 2020 · 28:23
+
+### Lochen, Schlitzen & Dornen
+→ [[de/techniken/lochen|Artikel: Lochen, Schlitzen & Dornen]]
+
+- [Forging an axe eye drift - basic blacksmithing](https://www.youtube.com/watch?v=ADOmXX9WeaU) · 2018 · 37:58
+- [Dressing hammers and punches - basic blacksmithing](https://www.youtube.com/watch?v=Q5wyhqKtnqo) · 2018 · 14:54
+- [Fundamental Skills of Blacksmithing - Punching Holes](https://www.youtube.com/watch?v=2ESWCFHID50) · 2025 · 12:50
+- [Blacksmithing tools, forging a hot chisel and round punch](https://www.youtube.com/watch?v=tpSP25fQEuA) · 2017 · 35:41
+- [Hammer Forging alternatives for punching the eye.](https://www.youtube.com/watch?v=u4IE9ADful4) · 2017 · 48:02
+- [Hammer eye punch and drift, part 2, forging the drift](https://www.youtube.com/watch?v=Nk3WiO5wuHk) · 2017 · 24:09
+- [Slitting Swage - Blacksmithing tools](https://www.youtube.com/watch?v=EGeMO6npJnM) · 2022 · 16:16
+- [Slitting and drifting holes - ornamental blacksmithing](https://www.youtube.com/watch?v=5gWc_9pkW9k) · 2018 · 25:25
+- [Ball end punch](https://www.youtube.com/watch?v=y6KkqhVK1S0) · 2019 · 17:27
+- [Quick and simple blacksmith tool - S7 center punch](https://www.youtube.com/watch?v=Z4-mHOuTrns) · 2019 · 13:21
+- [Slit and drifted decorative finial - ornamental blacksmithing](https://www.youtube.com/watch?v=58ho6wW8cPg) · 2019 · 14:53
+- [Hydraulic forging press, Punching an eye under the 24 ton press.](https://www.youtube.com/watch?v=9ZW080qjRe4) · 2017 · 18:53
+- … weitere 16
+
+### Abschroten / Trennen
+→ [[de/techniken/abschroten|Artikel: Abschroten / Trennen]]
+
+- [Hardening and tempering salvaged steel hardy tools - Basic Blcksmithing](https://www.youtube.com/watch?v=voyWvwEUDYM) · 2018 · 37:56
+- [Fundamental Blacksmithing Skills - Cutting](https://www.youtube.com/watch?v=kU1rp47XOVQ) · 2025 · 9:12
+- [Using a cutoff hardy at the anvil - basic blacksmithing - quick tip](https://www.youtube.com/watch?v=NTA_VDe4Igc) · 2018 · 4:27
+- [Restoring Old Chisels](https://www.youtube.com/watch?v=AlBXU3Y4Qyo) · 2024 · 19:56
+- [Blacksmithing tools, forging a hot chisel and round punch](https://www.youtube.com/watch?v=tpSP25fQEuA) · 2017 · 35:41
+- [Chisel Set for decorative work - Blacksmithing tools](https://www.youtube.com/watch?v=jXY6XbWFgVs) · 2021 · 18:15
+- [Forged fire place shovel - cutting sheet metal with a cold chisel](https://www.youtube.com/watch?v=CJbJyWBkfrQ) · 2017 · 40:54
+- [Spring butcher tool for the anvil hardy hole - blacksmithing tools](https://www.youtube.com/watch?v=9JD7ORLOjyo) · 2018 · 29:57
+- [Tools for the anvil hardy hole - blacksmithing tools](https://www.youtube.com/watch?v=kMm6Uz5anJ0) · 2018 · 6:53
+- [Forging a butcher style hardy tool - Blacksmiths tools](https://www.youtube.com/watch?v=jlfaNFJSnGo) · 2018 · 37:53
+- [Socket chisel for wood working](https://www.youtube.com/watch?v=6XrXGthCAds) · 2018 · 34:55
+- [Forging a Side Chisel - Blacksmithing tools](https://www.youtube.com/watch?v=JOQ7yn4wjG4) · 2022 · 12:07
+- … weitere 19
+
+### Biegen & Rollen
+→ [[de/techniken/biegen|Artikel: Biegen & Rollen]]
+
+- [Leaf end wall hook - blacksmithing for beginners](https://www.youtube.com/watch?v=v9H8oBsqykQ) · 2018 · 18:07
+- [Making and using a simple scroll form - basic blacksmithing](https://www.youtube.com/watch?v=ieZAeG9oDjI) · 2018 · 26:58
+- [The Fundamentals of Blacksmithing - Bending](https://www.youtube.com/watch?v=v-TP-Y9vMG0) · 2025 · 20:51
+- [Rams head hook - Blacksmithing for beginners](https://www.youtube.com/watch?v=2KHFWr45Smo) · 2018 · 26:18
+- [forging an S hook, basic blacksmithing, Black Bear Forge](https://www.youtube.com/watch?v=U_6CWRrV0S8) · 2017 · 14:53
+- [Sine wave wall hook - basic blacksmithing](https://www.youtube.com/watch?v=R7prU3rmvWA) · 2018 · 18:54
+- [Making Hook Ruler - Blacksmithing shop tip](https://www.youtube.com/watch?v=-5Wfq_qBaL4) · 2022 · 3:31
+- [Forging a gate or door hook - Blacksmithing for beginners](https://www.youtube.com/watch?v=21BeDvKuwzg) · 2018 · 21:40
+- [Forging a simple drive hook - blacksmithing for beginners](https://www.youtube.com/watch?v=w_7jh-VuRWU) · 2018 · 14:57
+- [Rams Horn Hook - Blacksmithing for beginners](https://www.youtube.com/watch?v=9Zd_WkbTc-Q) · 2022 · 5:14
+- [Forging a Pumpkin hook - Blacksmithing for beginners](https://www.youtube.com/watch?v=kNdqIGn_j0Y) · 2022 · 4:49
+- [Simple forged ceiling hook - basic blacksmithing](https://www.youtube.com/watch?v=9bPF8JE2Yik) · 2017 · 10:19
+- … weitere 103
+
+### Tordieren
+→ [[de/techniken/tordieren|Artikel: Tordieren]]
+
+- [Rubics cube twist - blacksmithing for beginners](https://www.youtube.com/watch?v=k44ITSAfWOM) · 2019 · 6:16
+- [Forge welded basket twist - basic blacksmithing welded twists part 1](https://www.youtube.com/watch?v=CHKCZlw_5sA) · 2018 · 21:55
+- [How to Forge a BASKET TWIST - with 5 bars](https://www.youtube.com/watch?v=vNIwH4-GTS0) · 2021 · 14:06
+- [blacksmithing technique - a few different twists in iron](https://www.youtube.com/watch?v=Vw9hmJTjOkE) · 2017 · 14:51
+- [Twisting round bar - ornamental ironwork - basic blacksmithing](https://www.youtube.com/watch?v=HDOTBkDZ2oU) · 2018 · 7:24
+- [Swaged twist - blacksmithing for beginners](https://www.youtube.com/watch?v=wPibUSk86rI) · 2018 · 6:09
+- [Fundamental Blacksmiths Skills - Twisting](https://www.youtube.com/watch?v=T8s4sh9ncbs) · 2025 · 11:06
+- [Blacksmiths helper for twisting long bars - quick tip](https://www.youtube.com/watch?v=qOkO0cYW9i0) · 2018 · 4:21
+- [Blacksmithing - Chevron or Wheat twist, forge welding twists](https://www.youtube.com/watch?v=c80mMzDknTI) · 2019 · 24:34
+- [Forging a Braided Twist handle](https://www.youtube.com/watch?v=3Zk7f-5w9Ag) · 2018 · 16:26
+- [Pinapple twist - using the Fly Press - ornamental blacksmithing](https://www.youtube.com/watch?v=hFpCjq4yEKo) · 2019 · 18:30
+- [Blacksmith twisting wrench - forging a simple twisting wrench](https://www.youtube.com/watch?v=6K6-6wOViAs) · 2017 · 21:16
+- … weitere 16
+
+### Feuerschweißen
+→ [[de/fortgeschritten/feuerschweissen|Artikel: Feuerschweißen]]
+
+- [Introduction to forge welding - basic blacksmithing](https://www.youtube.com/watch?v=j814AqiKVvE) · 2017 · 26:28
+- [Forge welding - scarf theory and making chain](https://www.youtube.com/watch?v=6G5xuheCcPI) · 2018 · 31:59
+- [Forge welded basket twist - basic blacksmithing welded twists part 1](https://www.youtube.com/watch?v=CHKCZlw_5sA) · 2018 · 21:55
+- [Forge Welding basics - Blacksmithing for Beginners](https://www.youtube.com/watch?v=DcVrp2g9N5s) · 2025 · 27:37
+- [Plug welded rivets - basic blacksmithing](https://www.youtube.com/watch?v=LaOzDcl7SLc) · 2019 · 7:07
+- [How much flux do you really need - forge welding](https://www.youtube.com/watch?v=hlH0Hr4-qSY) · 2018 · 12:29
+- [Blacksmithing - Chevron or Wheat twist, forge welding twists](https://www.youtube.com/watch?v=c80mMzDknTI) · 2019 · 24:34
+- [Forge welded hatchet from mild steel and 5160](https://www.youtube.com/watch?v=0b8K4Eq5FS4) · 2018 · 43:26
+- [Making a tenon spring die without welding](https://www.youtube.com/watch?v=Th2X0R5iy-E) · 2018 · 46:33
+- [Forge welding in a gas forge - fact or fiction](https://www.youtube.com/watch?v=HuFXhYR-vDc) · 2018 · 15:57
+- [Forge welded belt buckle](https://www.youtube.com/watch?v=hCROZvz-sGI) · 2018 · 27:45
+- [Forge welding blacksmiths tongs - drop tongs weld](https://www.youtube.com/watch?v=cski27JzNK0) · 2018 · 31:07
+- … weitere 28
+
+### Damast & Raffinierstahl
+→ [[de/fortgeschritten/damast|Artikel: Damast & Raffinierstahl]]
+
+- [Cable Damascus Axe - part 1](https://www.youtube.com/watch?v=OgYw_GWOEWI) · 2022 · 15:03
+- [Forging a Cable Damascus Camp axe - Blacksmithing fail.](https://www.youtube.com/watch?v=gSvQV_lOO2g) · 2022 · 17:47
+- [RMS demo, pattern welding with Steve](https://www.youtube.com/watch?v=rjp9QCtBHIw) · 2019 · 15:42
+
+### Gesenke, Federgesenke & Lufthammer
+→ [[de/fortgeschritten/gesenke|Artikel: Gesenke, Federgesenke & Lufthammer]]
+
+- [Basic Blacksmithing - Forging Spring Fullers](https://www.youtube.com/watch?v=Q_XtO3jEYO8) · 2023 · 13:06
+- [Blacksmithing tools. Swedges and Fullers - basic blacksmithing](https://www.youtube.com/watch?v=p1g615Xveg0) · 2017 · 15:35
+- [Swaged twist - blacksmithing for beginners](https://www.youtube.com/watch?v=wPibUSk86rI) · 2018 · 6:09
+- [Introduction to the treadle hammer for blacksmithing](https://www.youtube.com/watch?v=YMSlgkYkFIg) · 2017 · 12:08
+- [Making a tenon spring die without welding](https://www.youtube.com/watch?v=Th2X0R5iy-E) · 2018 · 46:33
+- [Making forging dies for the guillotine tool - blacksmithing tools](https://www.youtube.com/watch?v=1_dDlVOyVK0) · 2018 · 44:09
+- [Pinapple twist - using the Fly Press - ornamental blacksmithing](https://www.youtube.com/watch?v=hFpCjq4yEKo) · 2019 · 18:30
+- [Swage or Swedge blocks what are they and where do you find them](https://www.youtube.com/watch?v=uW0X2NRWuuc) · 2018 · 19:14
+- [Forging a swage block for the anvil - blacksmithing tools](https://www.youtube.com/watch?v=knX_uLMo-go) · 2018 · 23:01
+- [The Roy Hammer - Air Assist Treadle Hammer kit](https://www.youtube.com/watch?v=K-xHhkPJfMs) · 2022 · 11:43
+- [Shop built forging press - 24 ton](https://www.youtube.com/watch?v=7lyVy7I_oGE) · 2016 · 6:16
+- [The Guillotine tool or Smithing Magician.  -  blacksmithing tools](https://www.youtube.com/watch?v=QedaIyzSBGQ) · 2018 · 23:35
+- … weitere 48
+
+### Schmiedeverbindungen
+→ [[de/fortgeschritten/verbindungen|Artikel: Schmiedeverbindungen]]
+
+- [blind riveting techniques](https://www.youtube.com/watch?v=yAVhPmPM4So) · 2019 · 8:38
+- [Forge welded basket twist - basic blacksmithing welded twists part 1](https://www.youtube.com/watch?v=CHKCZlw_5sA) · 2018 · 21:55
+- [Hot collars for assembling ornamental iron work - basic blacksmithing](https://www.youtube.com/watch?v=U0Rsv6b93YQ) · 2018 · 20:30
+- [How to Forge a BASKET TWIST - with 5 bars](https://www.youtube.com/watch?v=vNIwH4-GTS0) · 2021 · 14:06
+- [Plug welded rivets - basic blacksmithing](https://www.youtube.com/watch?v=LaOzDcl7SLc) · 2019 · 7:07
+- [Forging rivet headers - blacksmithing tools](https://www.youtube.com/watch?v=YB9KXYWVP1c) · 2018 · 18:57
+- [Making a tenon spring die without welding](https://www.youtube.com/watch?v=Th2X0R5iy-E) · 2018 · 46:33
+- [Basket twist Christmas ornament](https://www.youtube.com/watch?v=m0sbQW4kCTE) · 2018 · 17:47
+- [Hanging Candelabra with Basket Twist](https://www.youtube.com/watch?v=fO958x8B254) · 2022 · 18:02
+- [Basket weave hook, a first look](https://www.youtube.com/watch?v=EkaeMks2x-M) · 2018 · 26:25
+- [Rivet headers hardening and tempering](https://www.youtube.com/watch?v=JDjuNXppBPU) · 2019 · 16:27
+- [Hand rivet setting tool](https://www.youtube.com/watch?v=qBc2EAf7OoM) · 2019 · 11:00
+- … weitere 7
+
+### Blätter, Blüten & Treiben
+→ [[de/fortgeschritten/blattwerk|Artikel: Blätter, Blüten & Treiben]]
+
+- [Leaf end wall hook - blacksmithing for beginners](https://www.youtube.com/watch?v=v9H8oBsqykQ) · 2018 · 18:07
+- [Making an iron rose - part 1](https://www.youtube.com/watch?v=DAOx1sv9VLE) · 2019 · 32:45
+- [Blacksmith forged leaf for a key ring or pendant.](https://www.youtube.com/watch?v=LNdug4fd3d8) · 2017 · 16:58
+- [Forging the Iron Rose   Blacksmithing](https://www.youtube.com/watch?v=fRw1nPR8xOE) · 2023 · 18:52
+- [Forging a leaf end Holdfast](https://www.youtube.com/watch?v=rWugAmlqDSc) · 2026 · 2:26
+- [Forging a Giant Leaf - Blacksmithing](https://www.youtube.com/watch?v=MEpZvR61tec) · 2020 · 30:06
+- [The iron rose - part 2 - assembly](https://www.youtube.com/watch?v=mmlIEFMIZjM) · 2019 · 26:46
+- [Leaf forging die for raised veins](https://www.youtube.com/watch?v=otINagBkfUs) · 2020 · 19:15
+- [Blacksmithing - Forging a Leaf Hook](https://www.youtube.com/watch?v=Mvc48Zfblok) · 2024 · 17:45
+- [Ornamental forged leaf](https://www.youtube.com/watch?v=MSe3dXm-HV8) · 2020 · 17:25
+- [Forged flower inspired by Cloverdale Forge](https://www.youtube.com/watch?v=woaaCJk2iWQ) · 2020 · 27:38
+- [Forging a Flower From Square Tubing](https://www.youtube.com/watch?v=eiPPKlpdLHE) · 2026 · 20:17
+- … weitere 8
+
+### Wärmebehandlung
+→ [[de/fortgeschritten/waermebehandlung|Artikel: Wärmebehandlung]]
+
+- [Test hardening unknown steels - basic blacksmithing](https://www.youtube.com/watch?v=rkEoh1J143k) · 2018 · 14:20
+- [Hardening and tempering salvaged steel hardy tools - Basic Blcksmithing](https://www.youtube.com/watch?v=voyWvwEUDYM) · 2018 · 37:56
+- [Spark testing steel - basic blacksmithing](https://www.youtube.com/watch?v=gbPSYxexZYU) · 2018 · 14:51
+- [Hardening and Tempering Junkyard Steels](https://www.youtube.com/watch?v=-1xRm0QqYW4) · 2017 · 17:59
+- [Viking anvils from the Mastermyr find - part 3 - hardening and tempering](https://www.youtube.com/watch?v=nr5tA8cJjKA) · 2019 · 15:48
+- [Forging a draw knife part 2 - filing, hardening and tempering](https://www.youtube.com/watch?v=Zjc1yliHhWo) · 2018 · 42:02
+- [No Tempering required  - Forging tools from Atlantic 33](https://www.youtube.com/watch?v=LlKI9YMyKS4) · 2022 · 14:58
+- [Herb chopper part 2  - filing hardening and hand sanding](https://www.youtube.com/watch?v=6yZrC2qOWzM) · 2020 · 19:10
+- [Flatter - part 2 - hardening and tempering the mystery steel](https://www.youtube.com/watch?v=EqUMisX1ZME) · 2019 · 20:37
+- [Rivet headers hardening and tempering](https://www.youtube.com/watch?v=JDjuNXppBPU) · 2019 · 16:27
+- [Testing unknown steels for hardening potential](https://www.youtube.com/watch?v=QNdUWxY5nZ8) · 2018 · 14:46
+- [Comparing critical temerature with non magnetic for hardening steel.](https://www.youtube.com/watch?v=kkGDBRpJC6U) · 2018 · 14:01
+- … weitere 2
+
+### Werkzeugbau (Zangen, Durchschläge, Hämmer, Äxte)
+→ [[de/fortgeschritten/werkzeugbau|Artikel: Werkzeugbau (Zangen, Durchschläge, Hämmer, Äxte)]]
+
+- [Forging an axe eye drift - basic blacksmithing](https://www.youtube.com/watch?v=ADOmXX9WeaU) · 2018 · 37:58
+- [Forging a trade axe or tomahawk part 1 - blacksmithing for beginners](https://www.youtube.com/watch?v=QOzTnxuAq70) · 2019 · 14:50
+- [Forging a trade axe part 2 - blacksmithing for beginners](https://www.youtube.com/watch?v=Tk5985Jh9GA) · 2019 · 17:00
+- [Forging an AXE from a Rail Road Spike](https://www.youtube.com/watch?v=8JbVhetF9RA) · 2021 · 17:06
+- [Introduction to tong making part 1, flat stock tongs without tongs - drawing out by hand.](https://www.youtube.com/watch?v=dHrgefJ7NvI) · 2018 · 34:44
+- [Forging simple hardies for the blacksmith shop - tool making](https://www.youtube.com/watch?v=HDub_2JxjDU) · 2018 · 41:11
+- [Introduction to tong making part 2, flat stock tongs without tongs - shaping the jaws](https://www.youtube.com/watch?v=Ti0avHTR9aU) · 2018 · 37:24
+- [Axe forged from steel cable - Blacksmithing](https://www.youtube.com/watch?v=bmjCpQkXCQA) · 2022 · 31:52
+- [Improved Railroad Spike Axe](https://www.youtube.com/watch?v=qkmirpVZLkQ) · 2023 · 15:04
+- [Quick Tongs and Rapid Tongs from Kens Custom Iron - tool review](https://www.youtube.com/watch?v=9XunAoCMUbo) · 2018 · 35:15
+- [Forging bolt jaw tongs, traditional approach](https://www.youtube.com/watch?v=cvsXrpYTsNU) · 2019 · 33:04
+- [Blacksmith tongs from Square bar with drawn out reins](https://www.youtube.com/watch?v=izxBjUNkjpA) · 2018 · 33:45
+- … weitere 58
+
